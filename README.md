@@ -1,50 +1,53 @@
-# Getting Started with Create React App
+# LetMeAsk
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img alt="LetMeAsk" src=".github/img/logo.svg" width="280px">
+</p>
 
-## Figma
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 
-https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate?node-id=0%3A1
+ <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=8257E5&labelColor=000000" alt="NLW 06" />
+</p>
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 💻 LetMeAsk
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+O LetMeAsk é um app onde se cria salas para responder perguntas.
 
-### `yarn test`
+## 🔖 Layout
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate?node-id=0%3A1). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
-### `yarn build`
+## 📷 Imagens
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🖥️ Desktop
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Usuário
+<img alt="user" title="user" src=".github/img/user-desktop.png" width="100%" />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Admin
+<img alt="admin" title="admin" src=".github/img/admin-desktop.png" width="100%" />
 
-### `yarn eject`
+## 🚀 Como executar
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Clone o repositório
+- Instale as dependências com `yarn`
+- Rode o app com `yarn start`
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## ✨ Tecnologias
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Learn More
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org)
+- [Gitmoji](https://gitmoji.dev)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Feito com 💜 by Luiz 👋🏻
